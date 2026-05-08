@@ -2,8 +2,6 @@
 
 A high-performance, reactive vector path editor built with **Angular 16** and **TailwindCSS**. This tool enables precise Bézier curve creation, multi-segment manipulation, and a "Smart-Crop" SVG export system for seamless integration with parent projects.
 
-**Live Demo:** [quarkbezier2.vercel.app](https://www.google.com/search?q=https://quarkbezier2.vercel.app)
-
 ---
 
 ## Introduction
