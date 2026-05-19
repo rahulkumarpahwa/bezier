@@ -44,3 +44,9 @@ Thumbs.db
 
 #powershell files
 *.ps1
+
+# shell script
+*.sh
+
+#text files 
+*.txt
